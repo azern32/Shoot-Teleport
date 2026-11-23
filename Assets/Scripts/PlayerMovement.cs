@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -14,7 +15,14 @@ public class PlayerMovement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.linearVelocity = new Vector2(Input.GetAxis("Horizontal") * 5f, rb.linearVelocity.y);
+        float horizontal = 0f;
+        if (Keyboard.current != null)
+        {
+            horizontal =
+                (Keyboard.current.dKey.isPressed || Keyboard.current.rightArrowKey.isPressed ? 1f : 0f) -
+                (Keyboard.current.aKey.isPressed || Keyboard.current.leftArrowKey.isPressed ? 1f : 0f);
+        }
 
+        rb.linearVelocity = new Vector2(horizontal * 5f, rb.linearVelocity.y);
     }
 }
