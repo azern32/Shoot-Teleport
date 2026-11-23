@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 8fed378b5e73e1243b3cbc051f615e8d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4407358667771702556
+    second: WarriorWomanAttackCombo_0
+  - first:
+      213: -8235699495210011350
+    second: WarriorWomanAttackCombo_1
+  - first:
+      213: -3371167008604967007
+    second: WarriorWomanAttackCombo_2
+  - first:
+      213: 8227146007253609740
+    second: WarriorWomanAttackCombo_3
+  - first:
+      213: -1849257100516525055
+    second: WarriorWomanAttackCombo_4
+  - first:
+      213: 1949770225131401271
+    second: WarriorWomanAttackCombo_5
+  - first:
+      213: 2228621595870385484
+    second: WarriorWomanAttackCombo_6
+  - first:
+      213: 794493981340090639
+    second: WarriorWomanAttackCombo_7
+  - first:
+      213: 874229071139251909
+    second: WarriorWomanAttackCombo_8
+  - first:
+      213: -2378644750271593785
+    second: WarriorWomanAttackCombo_9
+  - first:
+      213: -903357225621622707
+    second: WarriorWomanAttackCombo_10
+  - first:
+      213: -708259858195314549
+    second: WarriorWomanAttackCombo_11
+  - first:
+      213: -5676183760838318703
+    second: WarriorWomanAttackCombo_12
+  - first:
+      213: 7647937545677975189
+    second: WarriorWomanAttackCombo_13
+  - first:
+      213: 6280095691421404811
+    second: WarriorWomanAttackCombo_14
+  - first:
+      213: 971790654577583105
+    second: WarriorWomanAttackCombo_15
+  - first:
+      213: -6522249456218939838
+    second: WarriorWomanAttackCombo_16
+  - first:
+      213: 4130752276800558147
+    second: WarriorWomanAttackCombo_17
+  - first:
+      213: -4319749979755526532
+    second: WarriorWomanAttackCombo_18
+  - first:
+      213: -8815601463045618802
+    second: WarriorWomanAttackCombo_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d654e6b551a2d30800000000000000
+      internalID: 4407358667771702556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_1
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 15
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a25b42791fae4bd80800000000000000
+      internalID: -8235699495210011350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 15
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1afa59587753731d0800000000000000
+      internalID: -3371167008604967007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_3
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 15
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0def9d44b1bc2270800000000000000
+      internalID: 8227146007253609740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 15
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cf751077e1656e0800000000000000
+      internalID: -1849257100516525055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_5
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 15
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 730379e70b9fe0b10800000000000000
+      internalID: 1949770225131401271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 15
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c455e90a887adee10800000000000000
+      internalID: 2228621595870385484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_7
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 15
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0146fd011c960b00800000000000000
+      internalID: 794493981340090639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 15
+        width: 38
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6239555b2e12c00800000000000000
+      internalID: 874229071139251909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_9
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 15
+        width: 41
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2c635c33b5dfed0800000000000000
+      internalID: -2378644750271593785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_10
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 15
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d407a85b361a673f0800000000000000
+      internalID: -903357225621622707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_11
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 15
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8889975961cb26f0800000000000000
+      internalID: -708259858195314549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_12
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 15
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195246771f42a31b0800000000000000
+      internalID: -5676183760838318703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_13
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 15
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e22826daee22a60800000000000000
+      internalID: 7647937545677975189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_14
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 15
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8e42aa02c1672750800000000000000
+      internalID: 6280095691421404811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_15
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 15
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104242a937e7c7d00800000000000000
+      internalID: 971790654577583105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_16
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 15
+        width: 35
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ed5990da05c75a0800000000000000
+      internalID: -6522249456218939838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_17
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 15
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34455d16f41635930800000000000000
+      internalID: 4130752276800558147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_18
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 15
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76cb2ac74a2d04c0800000000000000
+      internalID: -4319749979755526532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorWomanAttackCombo_19
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 15
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8380c92d21b8a580800000000000000
+      internalID: -8815601463045618802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarriorWomanAttackCombo_0: 4407358667771702556
+      WarriorWomanAttackCombo_1: -8235699495210011350
+      WarriorWomanAttackCombo_10: -903357225621622707
+      WarriorWomanAttackCombo_11: -708259858195314549
+      WarriorWomanAttackCombo_12: -5676183760838318703
+      WarriorWomanAttackCombo_13: 7647937545677975189
+      WarriorWomanAttackCombo_14: 6280095691421404811
+      WarriorWomanAttackCombo_15: 971790654577583105
+      WarriorWomanAttackCombo_16: -6522249456218939838
+      WarriorWomanAttackCombo_17: 4130752276800558147
+      WarriorWomanAttackCombo_18: -4319749979755526532
+      WarriorWomanAttackCombo_19: -8815601463045618802
+      WarriorWomanAttackCombo_2: -3371167008604967007
+      WarriorWomanAttackCombo_3: 8227146007253609740
+      WarriorWomanAttackCombo_4: -1849257100516525055
+      WarriorWomanAttackCombo_5: 1949770225131401271
+      WarriorWomanAttackCombo_6: 2228621595870385484
+      WarriorWomanAttackCombo_7: 794493981340090639
+      WarriorWomanAttackCombo_8: 874229071139251909
+      WarriorWomanAttackCombo_9: -2378644750271593785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

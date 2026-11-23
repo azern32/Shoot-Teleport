@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: 91b100ce45162c149a9fdabc0bc378c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4343744314093679317
+    second: WarriorManAttackCombo_0
+  - first:
+      213: 6987399075343160796
+    second: WarriorManAttackCombo_1
+  - first:
+      213: 104338131000456079
+    second: WarriorManAttackCombo_2
+  - first:
+      213: 2988084537766210349
+    second: WarriorManAttackCombo_3
+  - first:
+      213: -1912860465863901578
+    second: WarriorManAttackCombo_4
+  - first:
+      213: 9126872303562031502
+    second: WarriorManAttackCombo_5
+  - first:
+      213: -1614306252928127859
+    second: WarriorManAttackCombo_6
+  - first:
+      213: -3768778073122749376
+    second: WarriorManAttackCombo_7
+  - first:
+      213: -5778743409715737902
+    second: WarriorManAttackCombo_8
+  - first:
+      213: -194148456699865706
+    second: WarriorManAttackCombo_9
+  - first:
+      213: -6918815449238495221
+    second: WarriorManAttackCombo_10
+  - first:
+      213: -3775903307917277824
+    second: WarriorManAttackCombo_11
+  - first:
+      213: 3961226709481806928
+    second: WarriorManAttackCombo_12
+  - first:
+      213: -119526067046412030
+    second: WarriorManAttackCombo_13
+  - first:
+      213: -4393115316798872124
+    second: WarriorManAttackCombo_14
+  - first:
+      213: -1338089472180597715
+    second: WarriorManAttackCombo_15
+  - first:
+      213: 7084798404904211054
+    second: WarriorManAttackCombo_16
+  - first:
+      213: 653717119270267180
+    second: WarriorManAttackCombo_17
+  - first:
+      213: -3125692886382641404
+    second: WarriorManAttackCombo_18
+  - first:
+      213: -5907914747807444589
+    second: WarriorManAttackCombo_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 15
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2dc25b7f8be7b3c0800000000000000
+      internalID: -4343744314093679317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd5d8bd207a38f060800000000000000
+      internalID: 6987399075343160796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f837fc23afea27100800000000000000
+      internalID: 104338131000456079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_3
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 15
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b64683e0fc77920800000000000000
+      internalID: 2988084537766210349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 15
+        width: 37
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e3b438a872475e0800000000000000
+      internalID: -1912860465863901578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_5
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 15
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e818a2cf00a29ae70800000000000000
+      internalID: 9126872303562031502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_6
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 15
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ce6831405d899e0800000000000000
+      internalID: -1614306252928127859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_7
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 15
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 044cc327f4c92bbc0800000000000000
+      internalID: -3768778073122749376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_8
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 15
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2da83c76c77cdcfa0800000000000000
+      internalID: -5778743409715737902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 15
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 695d6bcd10f3e4df0800000000000000
+      internalID: -194148456699865706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_10
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 15
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00a7a1a10e6bff90800000000000000
+      internalID: -6918815449238495221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_11
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 15
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0854e5172fb499bc0800000000000000
+      internalID: -3775903307917277824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_12
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 15
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05cd37d64ba19f630800000000000000
+      internalID: 3961226709481806928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_13
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 15
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2019c40ecab575ef0800000000000000
+      internalID: -119526067046412030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_14
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 15
+        width: 36
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c520e425e48803c0800000000000000
+      internalID: -4393115316798872124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_15
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 15
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c4cfce6b62e6de0800000000000000
+      internalID: -1338089472180597715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 15
+        width: 35
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e62d195cc92425260800000000000000
+      internalID: 7084798404904211054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_17
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 15
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2922b5a148721900800000000000000
+      internalID: 653717119270267180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_18
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 15
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f723661ee4f94d0800000000000000
+      internalID: -3125692886382641404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorManAttackCombo_19
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 15
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39155ad96ded20ea0800000000000000
+      internalID: -5907914747807444589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      WarriorManAttackCombo_0: -4343744314093679317
+      WarriorManAttackCombo_1: 6987399075343160796
+      WarriorManAttackCombo_10: -6918815449238495221
+      WarriorManAttackCombo_11: -3775903307917277824
+      WarriorManAttackCombo_12: 3961226709481806928
+      WarriorManAttackCombo_13: -119526067046412030
+      WarriorManAttackCombo_14: -4393115316798872124
+      WarriorManAttackCombo_15: -1338089472180597715
+      WarriorManAttackCombo_16: 7084798404904211054
+      WarriorManAttackCombo_17: 653717119270267180
+      WarriorManAttackCombo_18: -3125692886382641404
+      WarriorManAttackCombo_19: -5907914747807444589
+      WarriorManAttackCombo_2: 104338131000456079
+      WarriorManAttackCombo_3: 2988084537766210349
+      WarriorManAttackCombo_4: -1912860465863901578
+      WarriorManAttackCombo_5: 9126872303562031502
+      WarriorManAttackCombo_6: -1614306252928127859
+      WarriorManAttackCombo_7: -3768778073122749376
+      WarriorManAttackCombo_8: -5778743409715737902
+      WarriorManAttackCombo_9: -194148456699865706
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
