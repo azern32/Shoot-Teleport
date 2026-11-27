@@ -874,8 +874,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   rb: {fileID: 2062646816}
-  multipleJumps: 1
-  jumpForce: 5
+  maxJumps: 1
+  jumpForce: 10
   moveSpeed: 5
 --- !u!61 &2062646818
 BoxCollider2D:
