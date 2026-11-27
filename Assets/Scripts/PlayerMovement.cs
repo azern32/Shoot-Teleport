@@ -5,24 +5,46 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public Rigidbody2D rb;
+    public int multipleJumps = 1;
+    public float jumpForce = 5f;
+    public float moveSpeed = 5f;
+    float horizontalMove;
+    int jumpsRemaining;
 
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    // void Start()
-    // {
-        
-    // }
+    void Awake()
+    {
+        jumpsRemaining = Mathf.Max(0, multipleJumps);
+    }
 
     // Update is called once per frame
     void Update()
     {
-        float horizontal = 0f;
-        if (Keyboard.current != null)
-        {
-            horizontal =
-                (Keyboard.current.dKey.isPressed || Keyboard.current.rightArrowKey.isPressed ? 1f : 0f) -
-                (Keyboard.current.aKey.isPressed || Keyboard.current.leftArrowKey.isPressed ? 1f : 0f);
-        }
+        rb.linearVelocityX = horizontalMove * moveSpeed;        
+    }
 
-        rb.linearVelocity = new Vector2(horizontal * 5f, rb.linearVelocity.y);
+    public void Jump(InputAction.CallbackContext ct)
+    {
+        if (ct.performed && jumpsRemaining > 0)
+        {
+            rb.linearVelocityY = jumpForce;
+            jumpsRemaining--;
+        }
+    }
+    public void Move(InputAction.CallbackContext ct)
+    {
+        horizontalMove = ct.ReadValue<Vector2>().x;
+    }
+
+
+    void OnCollisionEnter2D(Collision2D collision)
+    {
+        for (int i = 0; i < collision.contactCount; i++)
+        {
+            if (collision.GetContact(i).normal.y > 0.5f)
+            {
+                jumpsRemaining = Mathf.Max(0, multipleJumps);
+                return;
+            }
+        }
     }
 }
