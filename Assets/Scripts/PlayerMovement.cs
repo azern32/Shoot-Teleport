@@ -5,7 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     public Rigidbody2D rb;
-    public int multipleJumps = 1;
+    public int maxJumps = 1;
     public float jumpForce = 5f;
     public float moveSpeed = 5f;
     float horizontalMove;
@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
 
     void Awake()
     {
-        jumpsRemaining = Mathf.Max(0, multipleJumps);
+        jumpsRemaining = Mathf.Max(0, maxJumps);
     }
 
     // Update is called once per frame
@@ -42,7 +42,7 @@ public class PlayerMovement : MonoBehaviour
         {
             if (collision.GetContact(i).normal.y > 0.5f)
             {
-                jumpsRemaining = Mathf.Max(0, multipleJumps);
+                jumpsRemaining = Mathf.Max(0, maxJumps);
                 return;
             }
         }
